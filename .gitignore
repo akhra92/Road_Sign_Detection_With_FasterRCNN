@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs & outputs
+logs/
+*.log
+
+# Dataset Images
+dataset/
+saved_models/
+
+# Model files & checkpoints
+*.ckpt
+
+# Dataset files
+*.zip
+*.tar.gz
+*.tar
+*.npz
+*.npy
+*.csv
+*.jsonl
+
+# TensorBoard & experiments
+runs/
+wandb/
+
+# IDE & editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
