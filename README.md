@@ -27,7 +27,7 @@ Below are some random samples from the dataset with corresponding labels:
 Here are the results of inference:
 
 ### Inference Results
-![Inference Result](assets/inference_results.png)
+![Inference Results](assets/inference_results.png)
 
 ---
 
